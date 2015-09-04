@@ -1,0 +1,55 @@
+body{
+
+	background-color: rgb(127, 140, 141);
+}
+
+
+.whole-page{
+
+	width: 60vw;
+	margin: auto;
+}
+
+.my-website{
+	background-color: rgb(46, 204, 113);
+	height: 200px;
+	border-bottom: 5px solid;
+	border-color:rgb(39, 174, 96);
+
+}
+
+
+
+
+.my-website h2{
+	color: white;
+	vertical-align: bottom;
+	line-height: 350px;
+	font-size: 190%;
+	padding-left: 10px;
+	padding-bottom: 0px;
+}
+
+.navbar{
+
+	background-color: rgb(52, 73, 94);
+	text-align: right;
+	height: 35px;
+	border-bottom: 5px solid rgb(44, 62, 80); 
+}
+
+
+.navbar li{
+
+	color:white;
+	display: inline-block;
+	font-size: 15px;
+	padding: 0px 10px;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+ul{
+	margin: 0;
+
+}
